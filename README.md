@@ -1,11 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Irina</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student at School 21 and I'm loving IT! </h3>
 
-<!--
-**rdanyell/rdanyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a student of School 21 and I'm loving IT! https://profile.intra.42.fr/users/rdanyell
-- 🌱 I’m currently learning Data Science and it looks exciting
-- 📫 How to reach me: t.me/rdanyell
-- ⚡ Fun fact: ...
