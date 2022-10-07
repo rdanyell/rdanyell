@@ -4,4 +4,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=And+I'm+loving+IT!)](https://git.io/typing-svg)
 
-Currently I'm learning Data Science and find it exciting!
+### Currently I'm learning Data Science and find it exciting!
