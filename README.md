@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and it looks exciting
 - 📫 How to reach me: t.me/rdanyell
 - ⚡ Fun fact: ...
--->
