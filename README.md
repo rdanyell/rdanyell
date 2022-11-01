@@ -5,6 +5,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+of+School+21+)](https://git.io/typing-svg)
 
 [![rdanyell's 42 stats](https://badge42.vercel.app/api/v2/cl93xp22s00750glcssk3im7p/stats?cursusId=21&coalitionId=92)](https://github.com/JaeSeoKim/badge42)
-
-
-### Currently I'm learning Data Science and I'm loving IT!
